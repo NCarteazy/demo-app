@@ -2,3 +2,4 @@
 .gitreview
 env
 flaskr.db
+*.abcd
